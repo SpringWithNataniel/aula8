@@ -17,4 +17,5 @@ Links úteis
 * http://software.dzhuvinov.com/cors-filter-spec.html
 * https://nodejs.org/en/
 * https://ionicframework.com/
+* https://ionicframework.com/getting-started/
 
